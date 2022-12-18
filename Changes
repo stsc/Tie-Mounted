@@ -1,5 +1,9 @@
 Revision history for Perl extension Tie::Mounted.
 
+0.18_02  2022-12-18  <schubiger@cpan.org>
+
+ - Add metadata repository link.
+
 0.18_01  2022-12-17  <schubiger@cpan.org>
 
  - Major refactoring.
