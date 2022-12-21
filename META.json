@@ -37,10 +37,10 @@
    "provides" : {
       "Tie::Mounted" : {
          "file" : "lib/Tie/Mounted.pm",
-         "version" : "0.18_02"
+         "version" : "0.19"
       }
    },
-   "release_status" : "testing",
+   "release_status" : "stable",
    "resources" : {
       "license" : [
          "http://dev.perl.org/licenses/"
@@ -49,6 +49,6 @@
          "url" : "https://github.com/stsc/Tie-Mounted"
       }
    },
-   "version" : "0.18_02",
+   "version" : "0.19",
    "x_serialization_backend" : "JSON::PP version 4.04"
 }
